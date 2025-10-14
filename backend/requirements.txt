@@ -1,0 +1,24 @@
+# Core Django
+Django==5.0.1
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+
+# Database
+# psycopg2-binary==2.9.9  # Uncomment for PostgreSQL migration (may need Python 3.12)
+
+# Task Queue
+celery==5.3.4
+redis==5.0.1
+
+# Excel Generation
+openpyxl==3.1.2
+
+# CORS handling
+django-cors-headers==4.3.1
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2024.1
